@@ -1,0 +1,10 @@
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\bin\Debug\лаба1._3._4__вариант_2.exe.config
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\bin\Debug\лаба1._3._4__вариант_2.exe
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\bin\Debug\лаба1._3._4__вариант_2.pdb
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\obj\Debug\лаба1.3.4- вариант 2.csprojAssemblyReference.cache
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\obj\Debug\лаба1._3._4__вариант_2.Properties.Resources.resources
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\obj\Debug\лаба1.3.4- вариант 2.csproj.GenerateResource.cache
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\obj\Debug\лаба1.3.4- вариант 2.csproj.CoreCompileInputs.cache
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\obj\Debug\лаба1._3._4__вариант_2.exe
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\obj\Debug\лаба1._3._4__вариант_2.pdb
+C:\Users\numva\RiderProjects\лаба1.3.4- вариант 2\лаба1.3.4- вариант 2\obj\Debug\лаба1._3._4__вариант_2.Form1.resources
